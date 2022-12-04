@@ -1,5 +1,7 @@
 # NETHER QUEST GAME DOCUMENTATION:
 
+<b>Please star <a href="https://github.com/Nether-Quest/Nether-Quest/">the repository</a>! Thank you! ⭐🤩</b>
+
 ## How to install:
 Check HOW TO INSTALL.txt
 
@@ -52,7 +54,7 @@ Do not use broken versions (see below) if possible
 New features might be buggy
 
 
-## VERSIONS
+## VERSIONS:
 ### BROKEN VERSIONS:
 v1.0.0 (supress install is slightly broken)
 
@@ -73,7 +75,7 @@ v1.0.1
 
 
 ### STABLE VERSIONS:
-v1.0.6
+v1.1.0
   
   
 ## SPECIAL VERSIONS:
@@ -162,7 +164,7 @@ Brand new version 2! WOOHOO! :)
 -
 
 
-### v1.0.7 (WIP):
+### v1.1.1 (WIP):
 
 #### Notes:
 -
@@ -175,7 +177,7 @@ Brand new version 2! WOOHOO! :)
 ##### New Features:
 -
 
-##### Game:
+#### Game:
 ##### Known Bugs:
 -
 ##### Bug fixes:
@@ -184,7 +186,7 @@ Brand new version 2! WOOHOO! :)
 -
 
 
-### v1.0.6:
+### v1.1.0:
 
 #### Notes:
 Yay! The 2 bugs that have been around from the first version is now gone!
@@ -247,7 +249,7 @@ This version has many bug fixes
   
 Do not use bow in mad hard or impossible as the wall bug is fixed
 
-##### Installation:
+#### Installation:
 ##### Known Bugs:
 -
 ##### Bug fixes:
@@ -279,8 +281,9 @@ Arrow is slightly faster
 #### Notes:
 Did you know that the original game files for v1.0.4 was lost so it was remade?
 
-##### Installation:
-Known Bugs:
+#### Installation:
+-
+##### Known Bugs:
 -
 ##### Bug fixes:
 -
@@ -398,7 +401,7 @@ Ghast stops moving when your health is 9 or below
 #### Notes:
 First version. There might be bugs.
 
-### Installation:
+#### Installation:
 ##### Known Bugs:
 Uninstall is broken because of suppress uninstall
 ##### Bug fixes:
@@ -406,7 +409,7 @@ Uninstall is broken because of suppress uninstall
 ##### New Features:
 Install the game
 
-### Game:
+#### Game:
 ##### Known Bugs:
 Invincible in wall
   
@@ -421,26 +424,52 @@ Collect obsidian to win
 
 
 ## Download links
+### Latest
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.5/Nether.Quest.v1.0.5.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.5/Nether.Quest.v1.0.5.msi">Windows MSI Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.apk">Android APK Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.sh">Linux shell script</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.zip">macOS zip file</a>
 ### Version v2.0.1
 -
 ### Version v2.0.0
 -
-### Version v1.0.7
+### Version v1.1.1
 -
-### Version v1.0.6
--
-### Version v1.0.5
--
-### Version v1.0.4
--
-### Version v1.0.3
--
-### Version v1.0.2
--
-### Version v1.0.1
-<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.1.exe">Windows EXE Installer</a>
+### Version v1.1.0
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.exe">Windows EXE Installer</a>
   
-<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.1.msi">Windows MSI Installer</a>
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.msi">Windows MSI Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.apk">Android APK Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.sh">Linux shell script</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.zip">macOS zip file</a>
+### Version v1.0.5
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.5/Nether.Quest.v1.0.5.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.5/Nether.Quest.v1.0.5.msi">Windows MSI Installer</a>
+### Version v1.0.4
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.4/Nether.Quest.v1.0.4.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.4/Nether.Quest.v1.0.4.msi">Windows MSI Installer</a>
+### Version v1.0.3
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.3/Nether.Quest.v1.0.3.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.3/Nether.Quest.v1.0.3.msi">Windows MSI Installer</a>
+### Version v1.0.2
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.2/Nether.Quest.v1.0.2.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.2/Nether.Quest.v1.0.2.msi">Windows MSI Installer</a>
+### Version v1.0.1
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.1/Nether.Quest.v1.0.1.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.1/Nether.Quest.v1.0.1.msi">Windows MSI Installer</a>
 ### Version v1.0.0
 <a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.0.exe">Windows EXE Installer</a>
   
